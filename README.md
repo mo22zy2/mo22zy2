@@ -37,6 +37,23 @@ I also contribute to the developer community as an **AI Instructor at GDG on Cam
 
 ---
 
+## GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mo22zy2&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo22zy2&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mo22zy2&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mo22zy2&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
+</p>
+
+---
+
 ## Featured Projects
 
 ### 🫁 BreathX RAG
@@ -66,33 +83,6 @@ An open-source MCP server that transforms lecture materials and past exams into 
 `Python` `MCP` `uv` `pytest`
 
 [Project Website →](https://mo22zy2.github.io/Sentra-MCP) · [Repository →](https://github.com/mo22zy2/Sentra-MCP/)
-
-### 🍽️ Django Eats
-**A full-stack restaurant platform**
-
-A restaurant application combining web interfaces, APIs, mobile integration, AI-powered chat, and notifications.
-
-`Django` `FastAPI` `Flutter` `PostgreSQL`
-
-[Repository →](https://github.com/mo22zy2/Django-Eats-Intern-Project)
-
-### 🎯 Exam Sense
-**Personalized exam generation**
-
-An AI-powered application that generates predicted exams from lecture notes and previous exams through a multi-stage pipeline.
-
-`Next.js` `TypeScript` `Supabase` `Gemini`
-
-[Repository →](https://github.com/mo22zy2/Exam_Sense)
-
-### 👁️ Face Recognition System
-**Face detection, embeddings, and classification**
-
-A face recognition pipeline combining face detection, deep feature extraction, and machine learning classification.
-
-`Python` `TensorFlow` `OpenCV` `FaceNet` `MTCNN` `SVM`
-
-[Repository →](https://github.com/mo22zy2/Face-Recognition-Using-FaceNet-SVM-MTCNN)
 
 ---
 
@@ -129,43 +119,19 @@ A face recognition pipeline combining face detection, deep feature extraction, a
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mo22zy2&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo22zy2&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mo22zy2&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mo22zy2&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
-</p>
-
----
-
 ## Experience
 
 **Software Development Intern — GTS Global Technology Services**  
 *July – August 2026*
 
-Built Django Eats and VitalCare applications using Django, FastAPI, Flutter, PostgreSQL, and Supabase Auth.
-
 **IT Intern — Assiut National Oil Processing Company**  
 *August 2025*
-
-Supported and troubleshot 10+ enterprise workstations across multiple departments.
 
 ---
 
 ## Certifications
 
 - NVIDIA — Building RAG Agents with LLMs, 2026
-- NTI — Flutter App Development, 2026
 - ITI — Generative AI Program, 2025
 - NVIDIA — Building LLM Applications with Prompt Engineering, 2025
 - InnovEgypt — Ministry of Communications, 2024
