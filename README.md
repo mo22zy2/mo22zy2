@@ -44,29 +44,6 @@ Open-source MCP server that turns lecture material and past exams into structure
 
 ---
 
-## Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mo22zy2&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=43C7FF&icon_color=43C7FF&text_color=B8D8F0&bg_color=080D1B" height="175" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo22zy2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html&title_color=43C7FF&text_color=B8D8F0&bg_color=080D1B" height="175" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mo22zy2&theme=tokyonight&hide_border=true&background=080D1B&ring=43C7FF&fire=00A6FF&currStreakLabel=43C7FF&sideLabels=B8D8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7895B5" width="80%" alt="GitHub Contribution Streak" />
-</p>
-
-### Contribution
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/43C7FF/mo22zy2" width="100%" alt="GitHub Contribution Graph" />
-</p>
-
-<p align="center">
-  <samp>BUILDING THE FUTURE, ONE COMMIT AT A TIME.</samp>
-</p>
-
----
-
 ## Stack
 
 <p align="center">
