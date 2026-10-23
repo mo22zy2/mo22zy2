@@ -27,7 +27,7 @@ Computer Science student at **Assiut University** (2027), working at the interse
 
 ## Selected work
 
-### Haytham — a bilingual LLM from scratch
+### Al-Haytham — a bilingual LLM from scratch
 Bilingual (Arabic + English) GPT built from first principles in PyTorch: custom tokenizer, transformer blocks, pretraining, and LoRA fine-tuning into a chat model.
 `Python` `PyTorch` `Tokenizers` `LoRA`
 [Repository →](https://github.com/mo22zy2/Haytham-LLM)
