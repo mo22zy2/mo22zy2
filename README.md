@@ -35,7 +35,7 @@ Bilingual (Arabic + English) GPT built from first principles in PyTorch: custom 
 ### BreathX RAG — safety-first clinical QA
 Clinical RAG backend for asthma questions grounded in GINA, NICE NG80, and NHLBI guidelines. Hybrid retrieval and reranking, evidence gating, citation validation, and safety-oriented refusals. Deployed on AWS.
 `Python` `FastAPI` `pgvector` `Cohere` `Celery` `Docker`
-[Repository →]((https://github.com/mo22zy2/BreathX-RAG))
+[Repository →](https://github.com/mo22zy2/BreathX-RAG)
 
 ### Sentra MCP — lecture PDFs to mock exams
 Open-source MCP server that turns lecture material and past exams into structured study material and practice exams. Local-first, grounded with source references.
