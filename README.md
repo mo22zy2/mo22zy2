@@ -14,7 +14,7 @@
   <tr><td><code>ROLE</code></td><td>AI Engineer · LLM Systems · Backend</td></tr>
   <tr><td><code>BASED</code></td><td>Assiut, Egypt</td></tr>
   <tr><td><code>FOCUS</code></td><td>Fine-tuning · RAG · Reliable APIs</td></tr>
-  <tr><td><code>NOW</code></td><td>CS @ Assiut University '27 · AI Instructor @ GDG</td></tr>
+  <tr><td><code>NOW</code></td><td>CS @ Assiut University '27 · AI Instructor</td></tr>
 </table>
 
 ---
